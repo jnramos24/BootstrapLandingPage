@@ -15,6 +15,7 @@ nav{
  background-attachment: fixed;
 
 }
+
 .info-section{
     padding-bottom: 10px;
     background-color: rgb(31, 73, 102);
@@ -23,6 +24,7 @@ nav{
 .card{
     background-color: cadetblue;
 }
+
 
 .dark-overlay{
     background-color: rgba(0, 0, 0, .7);
@@ -42,5 +44,4 @@ nav{
     .home-inner{
         padding-top: 100px ;
     }
-
 }
